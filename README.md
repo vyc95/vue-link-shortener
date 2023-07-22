@@ -28,5 +28,5 @@ npm run dev
 npm run build
 ```
 
-### step the bitly access token in .env
+### Set the bitly access token in .env
 VITE_BITLY_TOKEN
